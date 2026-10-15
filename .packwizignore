@@ -2,3 +2,5 @@ PLAYER-GUIDE.md
 .gitignore
 packwiz-installer-bootstrap.jar
 .git/
+README.md
+*.zip
