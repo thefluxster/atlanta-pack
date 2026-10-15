@@ -1,0 +1,13 @@
+name = "Continents"
+filename = "Continents_26.3_v1.2.1+26.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/JfG5Jj69/Continents_26.3_v1.2.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "29f10bdd65f5f1ddb34edc2dfe568f744467d1daf88729ead87191355f57432a52e84eaaf92f82be4ccd6f71b81e06c8806ad86218c4db87f342f50cbd03126a"
+
+[update]
+[update.modrinth]
+mod-id = "bQ5TJA1E"
+version = "JfG5Jj69"

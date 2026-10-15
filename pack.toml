@@ -1,0 +1,13 @@
+name = "Atlanta Server Pack"
+author = "Kurt"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4fc5917fe682e4510aa6d2342473e7427c0b8f8aa99728de4a85d0c6bdbd9036"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
