@@ -3,7 +3,7 @@
 Mods and setup for the Atlanta Minecraft server (Java Edition 26.3, Fabric).
 You need these mods to join. The server rejects a plain Minecraft client.
 
-Server address: `keyserhome.ddns.net`
+To get the server address, contact the server admin, Kurt.
 
 ## Quick setup (about 3 minutes)
 
@@ -11,7 +11,7 @@ Server address: `keyserhome.ddns.net`
 2. Download [Atlanta-Server-Instance.zip](https://github.com/thefluxster/atlanta-pack/raw/main/Atlanta-Server-Instance.zip). Do not unzip it.
 3. In Prism, choose **Add Instance**, then **Import from zip**, and select the file.
 4. Press **Play**. The first launch downloads the mods and takes a few minutes. Prism asks to install Java 25 if you don't have it. Say yes.
-5. In Minecraft, go to **Multiplayer**, then **Add Server**, and enter `keyserhome.ddns.net`.
+5. In Minecraft, go to **Multiplayer**, then **Add Server**, and enter the server address you got from Kurt.
 
 Every time you press Play, the launcher checks this page for changes and updates your mods to match the server. Do not add or remove mods by hand in this instance. Make a separate instance for your own mods.
 
@@ -25,7 +25,7 @@ Use this if the import fails.
    ```
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/thefluxster/atlanta-pack/main/pack.toml
    ```
-4. Press Play, then add the server address as above.
+4. Press Play, then add the server as in step 5 above.
 
 ## Voice chat
 
@@ -39,8 +39,8 @@ If the game is slow or crashes while loading, give it more memory in Prism under
 ## Troubleshooting
 
 - **"Mismatched mod" or registry error when joining.** Your mods are out of date. Close the game, press Play again from Prism and wait for the update to finish, then retry.
-- **Prism reports the pre-launch command failed.** Check your internet connection and try again. If it keeps failing, tell the server admin.
-- **Can't connect at all.** The server may be restarting. It stops nightly around 02:50 and is back by about 03:10 (US Pacific time).
+- **Prism reports the pre-launch command failed.** Check your internet connection and try again. If it keeps failing, contact the server admin, Kurt.
+- **Can't connect at all.** Check the address with Kurt. The server may also be restarting. It stops nightly around 02:50 and is back by about 03:10 (US Pacific time).
 
 ## What is in the pack
 
