@@ -27,11 +27,6 @@ Use this if the import fails.
    ```
 4. Press Play, then add the server as in step 5 above.
 
-## Voice chat
-
-Simple Voice Chat is included and works by distance: people hear you when you are close.
-Press **V** in game to open the voice chat menu and set up your microphone.
-
 ## Memory
 
 If the game is slow or crashes while loading, give it more memory in Prism under **Settings > Java > Maximum memory allocation**. 4096 MB is a reasonable minimum, and 6144 MB is better if your computer has 16 GB or more.
@@ -46,7 +41,6 @@ If the game is slow or crashes while loading, give it more memory in Prism under
 
 Mods that run on the server and on your computer:
 
-- Simple Voice Chat
 - Better Archeology
 - Farmer's Delight (Refabricated)
 - Naturalist
