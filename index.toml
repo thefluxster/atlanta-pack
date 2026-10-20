@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "c11e8af403f5ed82c17807af19dd4675e590633599f6582f9cc1e646516491d7"
+hash = "4202f8e080a4deb5899673ddbd8ef3aef68a455945bb9bee399ca27e7165f5a7"
 metafile = true
 
 [[files]]
