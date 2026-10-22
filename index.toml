@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "c643d8443d2811c0275b7f8f80383c56343db2e69a3807e945254b7843dc8f58"
+hash = "15e7405fb9ffa10e8b64234e41ab5031a0ea3c20625aeac25e23334c8f1307c0"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "5c07c5eadcc8450a4280d308f458b38ec48bbdcbe2ab0672277e63c53ca93546"
+hash = "f5b4ae158259f9e6f3c655cbb8865362a5c5609865c4d105d0576919054e5622"
 metafile = true
 
 [[files]]
