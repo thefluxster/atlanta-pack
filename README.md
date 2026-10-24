@@ -50,6 +50,7 @@ Mods that run on the server and on your computer:
 - Better Archeology
 - Farmer's Delight (Refabricated)
 - Naturalist
+- Alex's Mobs Continued (mobs Naturalist already has are turned off)
 - Sea Life
 - Combat Roll
 - Better Combat
@@ -66,8 +67,9 @@ Mods that only run on the server (you don't download these):
 
 - William Wythers' Overhauled Overworld, Continents, Incendium, Nullscape
 - Dungeons and Taverns, Moog's Ocean Structures, Gazebos
+- Axes Are Weapons
 
 ## For the server admin
 
-Pack source files are `pack.toml`, `index.toml` and the `mods/` folder, managed with [packwiz](https://packwiz.infra.link/).
+Pack source files are `pack.toml`, `index.toml`, the `mods/` folder and `config/` (shipped mod settings, e.g. `config/amc.json` for Alex's Mobs spawns), managed with [packwiz](https://packwiz.infra.link/).
 After changing mods, run `packwiz refresh`, commit and push. The server syncs from its local copy on every start. Clients sync from this repository's raw files on every launch, and GitHub can take up to five minutes to serve new versions.
