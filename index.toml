@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/amc.json"
+hash = "cfffbe1a88536f3ba34b5c9735402f0ce8bc8f8fa44d275ad73269ce9361bd0f"
+
+[[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "5e690c595ca20b80fa0f823e3d2aaf42e3573dbf690d02f4636d10b35bb70939"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "3c1e0ba127c98e6e095d4ceae482e1797977d92e877fb6a187819adfaf5255c9"
 metafile = true
@@ -38,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "8a383653773d191c7525b5e474062e8de918ecd4c08abc329d34261caa400a91"
 metafile = true
 
 [[files]]
