@@ -115,6 +115,11 @@ hash = "0ae7dcb3a7ee420c535ce4fdbfcf7f9addc34fdbb51894ac40bb5440ed577126"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "85d114ab8b4bcecfcceba65d4447c7c3f29a0628c24240362307567dd063f49c"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "15e7405fb9ffa10e8b64234e41ab5031a0ea3c20625aeac25e23334c8f1307c0"
 metafile = true

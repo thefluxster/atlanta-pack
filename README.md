@@ -51,6 +51,7 @@ Mods that run on the server and on your computer:
 - Farmer's Delight (Refabricated)
 - Naturalist
 - Alex's Mobs Continued (mobs Naturalist already has are turned off)
+- Mutant Monsters
 - Sea Life
 - Combat Roll
 - Better Combat
