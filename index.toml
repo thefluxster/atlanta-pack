@@ -16,6 +16,11 @@ hash = "c78c5ece3e0fb9f35d1959962d8ebd6f58031609b7ff484430635f0c13bbb941"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "ba669b5a60fbded25db5e767b87093c41140aa1f53219995323ec095f2a7995c"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "c9adab1a42f2da92e9c78cd026c1832c788763755cf9af73acf71a738fde6370"
 metafile = true
