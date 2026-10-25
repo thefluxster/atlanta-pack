@@ -29,7 +29,7 @@ A **grave** appears where you died and holds all your items and XP. Only you can
 - The terrain is reworked: huge continents, new biomes, and a remade Nether and End. Most things look different from vanilla.
 - There are many new structures: dungeons, taverns, ocean ruins and towers. **Shrine Towers** have a trial at the top whose reward is a **Shrine Chart**, a map to a Shrine. Shrines run from Tier I to Tier VI. Tier VI is brutal, so bring a group.
 - Many new animals and monsters. Watch out for **Mutant** zombies, skeletons, creepers and endermen. They're mini-bosses: don't fight one alone.
-- Pre-generated land near spawn loads fast. Far-out unexplored land is slower, and the server may briefly stop you at the edge while it builds the terrain. This is normal.
+- Land is generated as people explore, so new Minecraft and mod updates show up in newly explored areas. Going into land nobody has visited makes the server work hard: it may briefly hold you at the edge while it builds the terrain, and others may notice a short slowdown. Wait a moment instead of pushing on, and go easy on long Elytra or boat runs into new land.
 
 ### The RPG side (optional, but it's how you get strong)
 1. **Pick a path.** There are nine: Arcane, Fire or Frost Wizard, Paladin, Priest (the healer), Rogue, Warrior, and Archer. Your path is set by your **spell book**, which you equip in its own slot.
@@ -70,7 +70,7 @@ If the game is slow or crashes while loading, give it more memory in Prism under
 
 - **"Mismatched mod" or registry error when joining.** Your mods are out of date. Close the game, press Play again from Prism and wait for the update to finish, then retry.
 - **Prism reports the pre-launch command failed.** Check your internet connection and try again. If it keeps failing, contact the server admin, Kurt.
-- **Can't connect at all.** Check the address with Kurt. The server may also be restarting. It stops nightly around 02:50 and is back by about 03:10 (US Pacific time).
+- **Can't connect at all.** Check the address with Kurt. The server may also be restarting. Every night it warns at 02:40, stops at 02:50 for backups and updates, and is back by about 03:10 (US Pacific time), occasionally a few minutes later after system updates.
 
 ## What is in the pack
 
@@ -108,3 +108,10 @@ Mods that only run on the server (you don't download these):
 
 Pack source files are `pack.toml`, `index.toml`, the `mods/` folder and `config/` (shipped mod settings: `amc.json` Alex's Mobs spawns, `servercore/config.yml` dynamic distances under load, `universal-graves/config.json` permanent owner-only graves), managed with [packwiz](https://packwiz.infra.link/).
 After changing mods, run `packwiz refresh`, commit and push. The server syncs from its local copy on every start. Clients sync from this repository's raw files on every launch, and GitHub can take up to five minutes to serve new versions.
+
+Server operations:
+- **Nightly (US Pacific):** 02:15 mod updates (test-booted, then committed here as "Automatic mod update"), 02:40 restart warning, 02:50 stop, 02:55 world backup, 03:00 system updates, 03:10 start, 03:30 off-site backup.
+- **Backups:** Crafty keeps the last 7 nightly world backups on the server. The newest one is also copied to Google Drive (`MinecraftBackups/Atlanta Server Backup`), which only ever holds that single latest copy.
+- **Status:** run `server-status` on the server (also shown at SSH login) for services, players, backups, the Drive copy and pending updates.
+- **Pre-generation:** only a small area around spawn was pre-generated. Leave the rest to generate as players explore so future updates show up in new terrain. Chunky stays installed but should not be run again.
+- **Difficulty** is Hard, set in `server.properties`. Version upgrades are one-way for the world: back up and test-boot against a copy before moving to a new Minecraft version.
