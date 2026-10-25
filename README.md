@@ -92,6 +92,7 @@ Mods that run on the server and on your computer:
 Mods that only run on your computer (installed automatically, optional for gameplay):
 
 - Sodium, Entity Culling, ImmediatelyFast, Dynamic FPS (performance)
+- LambDynamicLights (held torches and glowing items light up the area around you)
 - Xaero's Minimap and Xaero's World Map
 - Sound Physics Remastered
 
