@@ -1,0 +1,13 @@
+name = "Critical Strike"
+filename = "critical_strike-fabric-1.0.6+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilvNBzFn/versions/A2rC2GCH/critical_strike-fabric-1.0.6%2B26.3.jar"
+hash-format = "sha512"
+hash = "1fb7f76670395cd5f13202de25b176204e9b62ebc1b21e433527ca96e0682b6a16c2fbaa6c3d68c0f475404ccd0c9729673ca0bacb9e7c484b240fe2d74f445d"
+
+[update]
+[update.modrinth]
+mod-id = "ilvNBzFn"
+version = "A2rC2GCH"

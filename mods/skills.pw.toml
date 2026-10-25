@@ -1,0 +1,13 @@
+name = "Pufferfish's Skills"
+filename = "puffish_skills-0.19.2-26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/VCmaVWxo/puffish_skills-0.19.2-26.3-fabric.jar"
+hash-format = "sha512"
+hash = "828b77af1b5752ebc1972a5a6501beb3f1f4b197b7b1264924de1c562503bb6888d6c546e25705853c00b5be06d97fd400d310ade9e6d5b2a992b9a3863fecab"
+
+[update]
+[update.modrinth]
+mod-id = "hqQqvaa4"
+version = "VCmaVWxo"

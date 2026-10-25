@@ -5,6 +5,14 @@ file = "config/amc.json"
 hash = "cfffbe1a88536f3ba34b5c9735402f0ce8bc8f8fa44d275ad73269ce9361bd0f"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "2f8a2e4ed620be455621a5f226ce15b8ec7aa14502e1783465848aa916593759"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "3742c2eec34c5f17f55977cc8af1f83cd9914ca7471b6c1a43464bbf58dd57bf"
+
+[[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
 hash = "5e690c595ca20b80fa0f823e3d2aaf42e3573dbf690d02f4636d10b35bb70939"
 metafile = true
@@ -25,6 +33,16 @@ hash = "c78c5ece3e0fb9f35d1959962d8ebd6f58031609b7ff484430635f0c13bbb941"
 metafile = true
 
 [[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "9a938aaa68c68348e4ea214044ec56c186554a25a4c6861f876f0b5ee650da25"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "3d39cb0d738e1306c547fbab2f1873755973aa693a02d25519dfd0d14cf36c71"
+metafile = true
+
+[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "ba669b5a60fbded25db5e767b87093c41140aa1f53219995323ec095f2a7995c"
 metafile = true
@@ -42,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/bundle-api.pw.toml"
 hash = "ddb32e4c34094862948fc54dc092df8eb06af414438f4425089d2cc2108406e3"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c3e4fe1c4469a4cbad5fc201fe7083166b6bf3cab7edb23398a317b4c29bd727"
 metafile = true
 
 [[files]]
@@ -70,8 +93,23 @@ hash = "1a25bc399bd02242460f744899deb7096e82641397e6262003dfb370907b87cc"
 metafile = true
 
 [[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "3dd431903458f68c010771414fcf002ecdcaaf01d8b8df8b9e467d7f742cb765"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "054242628a62b9be74f4d8b11f8497cc6176e4fb2213f46ca6e8fd53e009ca55"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "84d6a2b87db74408c8fd2fd15792bad981ffbab43e1ee96b79aabded2604141c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
 metafile = true
 
 [[files]]
@@ -85,6 +123,11 @@ hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
 metafile = true
@@ -95,6 +138,11 @@ hash = "a5fd70c28806aa3ec49e01f73281287d5f7764824356197777ea970e56417838"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "d1d7707380e95b316e0ed462370a6986153a2ae8714cdb31229d2800d1ed5a5d"
 metafile = true
@@ -102,6 +150,16 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "f68b03a9b3c2f0459649f8f2c68a49a29bfb8c91dd24aab3066f1fa3bcf59a1b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d2270d83f52a100881039af3773e996e130f443d16686b1813d24c7d05df26f2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "db5c1aeb374e15de642ab3993a391d58b5e05b882335c012493a852f8c55e9d8"
 metafile = true
 
 [[files]]
@@ -145,6 +203,11 @@ hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "b41df359e896461ef0b2b78778f3e9ef4b1b94e4448d2ae7cdc723e64e93e1ed"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b3c1a801fd92ba2ffcb9b73a8d8d2f13ec6912f70445f492453502734e4d143e"
 metafile = true
@@ -152,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "b7372c504655be2e7832a4e68f8761d4e6faedceb09aee52a07ae64378d390d1"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "b4dadc0a911fa3f9e4bee324b29bb48bc14c980df25faafc2b39a0d248047d43"
 metafile = true
 
 [[files]]
@@ -170,8 +238,23 @@ hash = "870deeab89b26266c358e6093caaa4fb41eb20bd5cbb0550226faeec3b525a44"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "07e3c8dc0d6b3717b01c91597e6d1a597333a1883731891df3c535164f96f5da"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "3229b633dc1aff88292688b2b12d029bfa13c37fe7c91d6811c8d3d164f3557c"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "b4465fd6b01d946649288f92e8b4cbcdb1287732dd3eaa8d55d509563e0f3226"
 metafile = true
 
 [[files]]
@@ -207,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
 hash = "e42d9b9488b43a065f5e1aafd4e8802a42568a9be4737888ba8d6b2af7a7c500"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "0b8dfdec9a2625121cdce419d34605e35689ba704cb4d75ada5cbfeeb77c6b4d"
 metafile = true
 
 [[files]]
