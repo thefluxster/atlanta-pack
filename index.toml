@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "4202f8e080a4deb5899673ddbd8ef3aef68a455945bb9bee399ca27e7165f5a7"
+hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
+hash = "b3c1a801fd92ba2ffcb9b73a8d8d2f13ec6912f70445f492453502734e4d143e"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ab722aa606514e0847f7824e831efbd67a3afc48fc4d88c4afd88a7959d8c3d6"
+hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
 metafile = true
 
 [[files]]
