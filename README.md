@@ -28,7 +28,11 @@ A **grave** appears where you died and holds all your items and XP. Only you can
 ### The world
 - The terrain is reworked: huge continents, new biomes, and a remade Nether and End. Most things look different from vanilla.
 - There are many new structures: dungeons, taverns, ocean ruins and towers. **Shrine Towers** have a trial at the top whose reward is a **Shrine Chart**, a map to a Shrine. Shrines run from Tier I to Tier VI. Tier VI is brutal, so bring a group.
-- Many new animals and monsters. Watch out for **Mutant** zombies, skeletons, creepers and endermen. They're mini-bosses: don't fight one alone.
+- Many new animals and monsters, including **Mutant** zombies, skeletons, creepers and endermen. They're mini-bosses: don't fight one alone. They're very rare in the wild on this server; mostly you make them yourself:
+  - Kill one and it drops a **Creeper Shard**, **Hulk Hammer**, **Endersoul Hand** or **Mutant Skeleton Skull**.
+  - Brew a **Thick Splash Potion** with that drop to get **Chemical X**.
+  - Throw it at a zombie, skeleton, creeper, enderman or snow golem to turn it into its mutant. (A pig fed a fermented spider eye becomes a Spider Pig.)
+  - Only do this somewhere you can fight it, with your group nearby.
 - Land is generated as people explore, so new Minecraft and mod updates show up in newly explored areas. Going into land nobody has visited makes the server work hard: it may briefly hold you at the edge while it builds the terrain, and others may notice a short slowdown. Wait a moment instead of pushing on, and go easy on long Elytra or boat runs into new land.
 
 ### The RPG side (optional, but it's how you get strong)
@@ -81,7 +85,7 @@ Mods that run on the server and on your computer:
 - Farmer's Delight (Refabricated)
 - Naturalist
 - Alex's Mobs Continued (mobs Naturalist already has are turned off)
-- Mutant Monsters
+- Mutant Monsters (natural spawns cut to a tenth; make them with Chemical X)
 - Sea Life
 - Combat Roll
 - Better Combat
@@ -106,7 +110,7 @@ Mods that only run on the server (you don't download these):
 
 ## For the server admin
 
-Pack source files are `pack.toml`, `index.toml`, the `mods/` folder and `config/` (shipped mod settings: `amc.json` Alex's Mobs spawns, `servercore/config.yml` dynamic distances under load, `universal-graves/config.json` permanent owner-only graves), managed with [packwiz](https://packwiz.infra.link/).
+Pack source files are `pack.toml`, `index.toml`, the `mods/` folder and `config/` (shipped mod settings: `amc.json` Alex's Mobs spawns, `servercore/config.yml` dynamic distances under load, `universal-graves/config.json` permanent owner-only graves, `mutantmonsters-common.toml` mutant spawn weights at 0.005, a tenth of the default), managed with [packwiz](https://packwiz.infra.link/).
 After changing mods, run `packwiz refresh`, commit and push. The server syncs from its local copy on every start. Clients sync from this repository's raw files on every launch, and GitHub can take up to five minutes to serve new versions.
 
 Server operations:

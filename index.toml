@@ -5,6 +5,10 @@ file = "config/amc.json"
 hash = "cfffbe1a88536f3ba34b5c9735402f0ce8bc8f8fa44d275ad73269ce9361bd0f"
 
 [[files]]
+file = "config/mutantmonsters-common.toml"
+hash = "1c1b6fe858298a217483ca306d35bb30c3daaf0f7d8ca60ab0c19d82ca26e82a"
+
+[[files]]
 file = "config/servercore/config.yml"
 hash = "2f8a2e4ed620be455621a5f226ce15b8ec7aa14502e1783465848aa916593759"
 
