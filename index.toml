@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "db5c1aeb374e15de642ab3993a391d58b5e05b882335c012493a852f8c55e9d8"
+hash = "03a3fbb8a1641f4b133a0efe7914cb8f43b5b891fbdc587741b5e2c1edde655a"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b3c1a801fd92ba2ffcb9b73a8d8d2f13ec6912f70445f492453502734e4d143e"
+hash = "1d781325cf9001dddce371f093e679e84e93024d62cc28e367343c4cc1d8ca04"
 metafile = true
 
 [[files]]
