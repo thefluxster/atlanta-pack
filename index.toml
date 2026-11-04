@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "c3e4fe1c4469a4cbad5fc201fe7083166b6bf3cab7edb23398a317b4c29bd727"
+hash = "2d7010a930dfc1963611d271fecd79efb2171074ed3af75ad6c4d84225a1241f"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "08406e035df840b393ad52dade3be50dba336fd376ec9f79fab795024bfffad6"
+hash = "7c7b37fc0dbf4e95d51b2185b100ce36c313a74745edc20eec55161c5f8b3999"
 metafile = true
 
 [[files]]
