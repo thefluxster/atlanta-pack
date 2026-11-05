@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
+hash = "edcf67f591069ab1b95b375c673bce575b56869ae3ca3adccc6cfb7bf76e70ab"
 metafile = true
 
 [[files]]
